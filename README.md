@@ -1,37 +1,39 @@
 # ✒️ Gifted Ink
 
-**AI-powered writing, editing, branding, and publishing platform**
+**AI-powered writing, editing, branding, and publishing platform.**
+
+Gifted Ink is a full-stack platform for authors, ghostwriters, and publishing teams. It provides AI-enhanced tools for drafting, editing, formatting, branding, and publishing — all in one ecosystem. Designed to make professional-grade book creation accessible to all.
 
 ---
 
-## 🚀 Overview
-Gifted Ink is an all-in-one creative hub for authors, editors, and publishers.  
-It combines **AI-assisted writing**, **automated editing**, **branding tools**, and **publishing workflows** into one seamless experience.  
-From concept to publication, Gifted Ink helps you work faster, smarter, and with more creative freedom.
+## 🌟 Features
 
----
-
-## ✨ Features
-- **AI Writing Assistant** – Generate outlines, chapters, or full manuscripts.
-- **Automated Editing** – Improve grammar, style, pacing, and flow instantly.
-- **Branding Tools** – Create author brand kits, taglines, and marketing assets.
-- **Publishing Workflow** – Format for eBook, print, or web distribution.
-- **Golden Hour Pen Name Rotation** – Alternate between personal and AI-generated pen names without repeats.
-- **Cloud Sync** – Auto-backup to GitHub and integrated drives.
+- **AI Writing Assistant** – Generate, refine, and restructure prose with advanced AI models.
+- **Story Bible Auto-Builder** – Instantly create structured worldbuilding and character profiles.
+- **Smart Editing** – Automated grammar, style, and tone adjustments.
+- **Publishing Dashboard** – Manage your book pipeline from draft to print-ready.
+- **Cover Designer** – Integrated AI + manual cover creation.
+- **Marketing Hub** – Generate blurbs, author bios, and promotional material.
+- **Golden Hour Pen Name Rotation** – Alternates between personal and AI-generated pen names without repeats.
+- **Cloud Sync** – Auto-backup to GitHub and connected drives.
 
 ---
 
 ## 🛠 Tech Stack
+
 - **Frontend:** React  
 - **Backend:** Node.js  
 - **Automation:** GitHub Actions (CI/CD)  
-- **Storage & Sync:** GitHub + Google Drive
+- **Hosting:** GitHub Pages  
+- **Storage & Sync:** GitHub + Cloud Storage  
 
 ---
 
 ## 📦 Installation
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gifted-ink.git
+   git clone https://github.com/<your-username>/gifted-ink.git
+   cd gifted-ink
    npm install
    npm start
