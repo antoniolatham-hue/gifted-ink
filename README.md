@@ -62,3 +62,4 @@ We welcome contributions from the community!
 2. **Create a new branch**:  
    ```bash
    git checkout -b feature-name
+git add README.md && git commit -m "Update README" && git push origin main
